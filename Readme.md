@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Дарья Костенко](https://up.htmlacademy.ru/javascript/31/user/2400037).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Медведев](https://htmlacademy.ru/profile/exteep).
 
 ---
 
